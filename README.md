@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Swarali-glitch
+- 👋 Hi, I’m @PatilSwarali
 - 👀 I’m interested in computational methods for astrophysics
 - 🌱 I’m currently pursuing a PhD in Physics at West Virginia University
 - 💞️ I’m looking to collaborate on advance astrophysics and beginner physics projects
